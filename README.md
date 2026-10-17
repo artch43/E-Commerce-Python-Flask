@@ -2,7 +2,7 @@
 
 API REST de um e-commerce simples, feita com **Python + Flask** e banco de dados **SQLite**. Permite cadastrar, listar, consultar, atualizar e remover produtos, com autenticação de usuários por sessão.
 
->  **Projeto de estudo.** Foi desenvolvido para praticar a criação de APIs, o uso de banco de dados com ORM e autenticação.
+>  **Projeto de estudo.** Foi desenvolvido para praticar a criação de APIs, o uso de banco de dados com ORM e autenticação. Baseado no curso introdutório de Python e Flask da RocketSeat.
 
 ---
 
